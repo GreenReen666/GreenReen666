@@ -8,3 +8,6 @@
 GreenReen666/GreenReen666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+$ ssh -T -p 443 git@ssh.github.com
+> Hi USERNAME! You've successfully authenticated, but GitHub does not
+> provide shell access.
